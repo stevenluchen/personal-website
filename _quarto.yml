@@ -15,6 +15,13 @@ website:
         text: "About Me"
       - href: contact.qmd
         text: "Contact"
+    right:
+      - icon: github
+        href: https://github.com/stevenluchen
+      - icon: linkedin
+        href: https://linkedin.com/in/stevenluchen
+      - icon: envelope
+        href: mailto:stevenchen@ucla.edu
 
 format:
   html:
