@@ -1,40 +1,41 @@
 ---
 title: "Welcome to my website!"
+about:
+  template: trestles
 page-layout: full
 toc: false
 ---
 
-::: {.grid}
-::: {.g-col-8}
-
+::: grid
+::: g-col-8
 ## Hey there - I'm Steven.
 
-I'm a data scientist and software developer with a strong background in **machine learning, mathematics, and data analytics**. I have experience in predictive modeling, time series forecasting, deep learning, and building end-to-end data solutions across multiple industries. 
+I'm a data scientist and software developer with a strong background in **machine learning, mathematics, and data analytics**. I have experience in predictive modeling, time series forecasting, deep learning, and building end-to-end data solutions across multiple industries.
 :::
 
-::: {.g-col-4}
-<img src="images/chensteven_headshot.jpg" alt="Steven Lu Chen" width="200" width="200" style="margin-left: 20px;">
+::: g-col-4
+<img src="images/chensteven_headshot.jpg" alt="Steven Lu Chen" width="200" style="margin-left: 20px;"/>
 :::
 :::
 
----
+------------------------------------------------------------------------
 
 ### What you'll find here:
-- [**Resume**](resume.qmd) 
 
-    A detailed look at my experience, education, and skills. 
-    
-- [**Projects**](projects.qmd) 
+-   [**Resume**](resume.qmd)
 
-    Some fun things I've worked on in AI, data science, and analytics. 
-    
-- [**About me**](about.qmd) 
+    A detailed look at my experience, education, and skills.
 
-    More about my journey, interests, and background. 
-    
-- [**Contact**](contact.qmd) 
-    
+-   [**Projects**](projects.qmd)
+
+    Some fun things I've worked on in AI, data science, and analytics.
+
+-   [**About me**](about.qmd)
+
+    More about my journey, interests, and background.
+
+-   [**Contact**](contact.qmd)
+
     How to reach me!
 
-
----
+------------------------------------------------------------------------

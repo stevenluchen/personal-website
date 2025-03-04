@@ -15,6 +15,7 @@ website:
         text: "About Me"
       - href: contact.qmd
         text: "Contact"
+
 format:
   html:
     theme: flatly
