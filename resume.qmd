@@ -1,0 +1,90 @@
+---
+title: "My Resume"
+page-layout: full
+---
+
+I’m a data scientist and analyst who loves turning messy data into meaningful insights. Whether it's forecasting airline parts, breaking down baseball pitches, or predicting stock prices, I enjoy using machine learning and stats to solve real-world problems. If it involves numbers, models, and a challenge - I’m in.  
+
+---
+
+# Education
+
+### **University of California, Los Angeles** (August 2021 - June 2025)
+
+**B.S. Mathematics of Computation** and **B.S. Statistics and Data Science**
+
+**Relevant coursework:** Data Mining, Machine Learning, Monte Carlo Methods, Statistical Theory, Data Management Systems, Computer Organization, Data Structures, Algorithms and Complexity
+
+### **Cambridge University** (June 2022 - August 2022)
+
+**Pembroke College Summer Programme**
+
+Studied advanced mathematics and statistics while navigating British academia and accents  
+
+---
+
+# Professional Experience
+
+### Technical Operations Intern - United Airlines (June 2024 - September 2024)
+- Forecasted demand for airplane parts to keep flights running smoothly ✈️  
+- Built **deep neural networks** on **Palantir Foundry** to improve inventory predictions  
+- Transformed ETL pipelines to speed up data processing and enhance forecasting accuracy  
+
+### Business Intelligence Intern - San Jose Sharks (June 2023 - August 2023)
+- Analyzed fan attendance trends to predict how season ticket holders use their seats 🦈
+- Evaluated the effectiveness of a loyalty program, influencing future fan engagement strategies  
+- Built **Tableau** dashboards that gave executives real-time insights into ticket sales and revenue  
+
+### Baseball Analytics Consultant - UCLA Baseball (October 2022 - June 2024)
+- Developed an **XGBoost**-based model to quantify pitch effectiveness ⚾️
+- Created a **Gaussian Naive Bayes** pitch classifier to help pitchers understand their tendencies  
+- Provided insights that contributed to pitcher development and game-day strategy  
+
+### Machine Learning Operations Intern - Virufy (March 2023 - June 2023)
+- Helped develop AI-driven tools for detecting COVID-19 from cough sounds 🦠
+- Optimized ML model deployment and automated data pipelines  
+- Improved model performance using **AWS and PySpark**  
+
+---
+
+# Student Organizations
+
+### Bruin Sports Analytics
+- **President** (June 2024 - June 2025) – Leading the club, organizing projects, and mentoring students  
+- **Vice President** (June 2023 - June 2024) – Managed operations and research efforts  
+- **Social/Outreach Chair** (June 2022 - June 2023) – Built partnerships and grew the club’s presence  
+
+### DataRes @ UCLA
+- **Student Researcher** (January 2023 - December 2023) – Worked on AI-driven research projects and explored applications of machine learning in real-world problems  
+- **Data Journalist** (March 2022 - December 2022) - Contributed to data-driven articles pertaining to current events
+
+### Upsilon Pi Epsilon Honor Society
+- Active Member (September 2023 - June 2025) - Part of an honor society for computing and information sciences
+
+---
+
+# Skills
+
+### Machine Learning
+`scikit-learn` `pytorch` `tensorflow` `keras`
+
+### Visualization & Dashboarding
+Tableau, Power BI, SAP Analytics Cloud
+
+`matplotlib` `seaborn` `plotly` `ggplot2` 
+
+### Databases & Cloud Infrastructure
+
+SQL, PostgreSQL, Spark, MongoDB, neo4j
+
+Snowflake, Amazon Web Services, Google Cloud Platform
+
+### Miscelleaneous
+
+`shiny` `dplyr` `rbaseball` `reticulate` 
+
+`pybaseball` `streamlit`
+
+Excel, MATLAB, Java, C/C++
+
+---

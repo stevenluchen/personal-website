@@ -1,0 +1,13 @@
+---
+title: "Contact"
+page-layout: full
+---
+
+Feel free to reach out! My social media handles are @stevenluchen on everything. 
+
+- [<i class="bi bi-envelope"></i>  stevenchen@ucla.edu](mailto:stevenchen@ucla.edu)
+- [<i class="bi bi-github"></i> GitHub](https://github.com/stevenluchen)
+- [<i class="bi bi-linkedin"></i> LinkedIn](https://www.linkedin.com/in/stevenluchen/)
+
+
+---
