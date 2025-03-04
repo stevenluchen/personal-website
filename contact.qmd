@@ -1,13 +1,21 @@
 ---
 title: "Contact"
 page-layout: full
+toc: false
 ---
 
-Feel free to reach out! My social media handles are @stevenluchen on everything. 
+## Let's Connect!  
+Want to chat about data science, sports, airplanes, or just say hi? Feel free to reach out - I'm always happy to connect!  
 
-- [<i class="bi bi-envelope"></i>  stevenchen@ucla.edu](mailto:stevenchen@ucla.edu)
-- [<i class="bi bi-github"></i> GitHub](https://github.com/stevenluchen)
-- [<i class="bi bi-linkedin"></i> LinkedIn](https://www.linkedin.com/in/stevenluchen/)
+### ️🌴 Based in Los Angeles, CA  
+And everywhere below:
 
+### 📬 Get in Touch  
+- [<i class="bi bi-envelope"></i> stevenchen@ucla.edu](mailto:stevenchen@ucla.edu)  
+
+### 🌐 Find Me Online  
+- [<i class="bi bi-github"></i> GitHub](https://github.com/stevenluchen){target=_blank}  
+- [<i class="bi bi-linkedin"></i> LinkedIn](https://www.linkedin.com/in/stevenluchen/){target=_blank}  
+- [<i class="bi bi-instagram"></i> Instagram](https://instagram.com/stevenluchen){target=_blank}  
 
 ---
