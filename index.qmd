@@ -1,11 +1,16 @@
 ---
-title: "personal-website"
+title: "Welcome to my website!"
+page-layout: full
 ---
 
-This is a Quarto website.
+## Hey there - I'm Steven.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm a data scientist and software developer with a strong background in **machine learning, mathematics, and data analytics**. I have experience in predictive modeling, time series forecasting, deep learning, and building end-to-end data solutions across multiple industries. 
 
-```{r}
-1 + 1
-```
+### What you'll find here:
+- [**Resume:**](resume.qmd) A detailed look at my experience, education, and skills. 
+- [**Projects:**](projects.qmd) Some fun things I've worked on in AI, data science, and analytics. 
+- [**About me:**](about.qmd) More about my journey, interests, and background. 
+- [**Contact:**](contact.qmd) How to reach me!
+
+---

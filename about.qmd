@@ -1,9 +1,30 @@
 ---
-title: "About"
+title: "About Me"
+page-layout: full
 ---
 
-About this site
+My academic and professional interests include **big data**, **machine learning**, **blockchain**, and **artificial intelligence**, but you probably already knew that. Outside of work, I like:
 
-```{r}
-1 + 1
-```
+### Sports
+
+  My favorite teams are the **Golden State Warriors**, **San Francisco 49ers**, and **Tottenham Hotspur**, and some of my favorite athletes include **Stephen Curry**, **Gareth Bale**, and **Harry Kane**. I've also visited 18 different sports venues in 5 countries - the best, so far, have been the **Panathenaic Stadium** in Athens and **Tottenham Hotspur Stadium** in London. 
+  
+  I also dabble in the applications of statistics to sports betting. I'd like to say I'm generally profitable. Some of the athletes that have won me the most money are **Malik Nabers**, **Shai Gilgeous-Alexander**, and **Justin Jefferson**, while some of those that have cost me the most money are **Tyler Herro**, **Rodri**, and **Luka Dončiċ**.
+
+### Traveling
+
+  Working for an airline gave me the unique opportunity to casually travel the world on my days off! I've visited **25** countries and **24** U.S. states and territories. Over the years, I've taken off **125** times and counting, comprising over a **quarter of a million miles**, and have spent the night in **10** different airport terminals around the world.
+  
+  Some of my favorite places I've visited are **London, England**; **Kamakura, Japan**; and **Saint Petersburg, Russia**. 
+  
+  On my list of places to see next are **Ulaanbaatar, Mongolia**; **Phnom Penh, Cambodia**; and **Vatnajökull, Iceland**. 
+
+### Aviation
+
+  I often look forward to the airport and the plane ride as much as I do the vacation itself! Some of my favorite airports are **San Francisco (SFO)**, **Singapore (SIN)**, **New Orleans (MSY)**, and **Tokyo-Narita (NRT)**. 
+  
+  The longest flight I've ever taken was **United Airlines 1** - from San Francisco to Singapore. It took 16 hours and 25 minutes and traveled 8,438 miles. The shortest flight I've ever taken was **Aegean Airlines 361** - from Thira, Santorini to Athens. It took 57 minutes and traveled 135 miles. 
+  
+  My aviation-related hobbies include arriving at SFO early to admire the Lufthansa Boeing 747-800 that flies in from Frankfurt every day, and reading Wikipedia articles about obscure airports and airlines. Currently, my favorite planes are the **Boeing 787 Dreamliner** and the **Airbus A321neo**, both of which I've been very fortunate to fly on several times with United. 
+  
+---
