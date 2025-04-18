@@ -9,9 +9,17 @@ Some of the fun stuff I've worked on, ranging from machine learning models to sp
 ---
 
 ### 🔢 Machine Learning & Data Science  
-- **Large Language Model & Retrieval-Augmented Generation**
+- **Airline Route Similarity Research**
 
-    Current project I'm working on. Developing RAG system optimizing retrieval strategies for Meta KDD Cup 2024 CRAG benchmark. 
+    Current project I'm working on. I'm using flight telemetry data to identify possibly unexpected parallels between major U.S. flight corridors and international routes. 
+
+- [**OpenL3 Music Recommendation System**](https://github.com/stevenluchen/openl3_recommender)
+
+    Built my own music recommendation pipeline because I got tired of Spotify's built-in recommendation algorithm. Feel free to try it yourself! 
+
+- [**Large Language Model & Retrieval-Augmented Generation**](https://github.com/stevenluchen/LLM-RAG)
+
+    Developed RAG system optimizing retrieval strategies for Meta KDD Cup 2024 CRAG benchmark. 
 
 - [**Denoising Autoencoder for CIFAR-100**](https://github.com/stevenluchen/denoising-autoencoder){target=_blank}  
 
