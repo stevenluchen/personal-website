@@ -1,0 +1,33 @@
+# Load necessary package
+if (!requireNamespace("pwr", quietly = TRUE)) {
+  install.packages("pwr")
+}
+library(pwr)
+
+# Parameters
+effect_size <- 0.5   # Cohen's d for paired differences
+alpha <- 0.05        # Significance level
+n_range <- seq(0, 100, by = 2)  # Range of sample sizes (pairs)
+
+# Compute power for each sample size
+power_values <- sapply(n_range, function(n) {
+  pwr.t.test(n = n,
+             d = effect_size,
+             sig.level = alpha,
+             type = "paired",
+             alternative = "two.sided")$power
+})
+
+# Plot power curve
+plot(n_range, power_values, type = "l", lwd = 2,
+     col = "blue", ylim = c(0, 1),
+     xlab = "Sample Size (Number of Pairs)",
+     ylab = "Power",
+     main = "Power Curve for Paired t-Test")
+abline(h = 0.9, col = "red", lty = 2)  # Typical power threshold
+abline(v = 44, col = 'green', lty=2)
+legend("bottomright",
+       legend = c("Power Curve", "90% Power Threshold", "Min. Sample Size (44)"),
+       col = c("blue", "red", "green"),
+       lty = c(1, 2, 2),
+       lwd = 2)

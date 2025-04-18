@@ -1,0 +1,47 @@
+---
+title: "Projects"
+page-layout: full
+toc: false
+---
+
+Some of the fun stuff I've worked on, ranging from machine learning models to sports analytics research.  
+
+---
+
+### 🔢 Machine Learning & Data Science  
+- **Airline Route Similarity Research**
+
+    Current project I'm working on. I'm using flight telemetry data to identify possibly unexpected parallels between major U.S. flight corridors and international routes. 
+
+- [**OpenL3 Music Recommendation System**](https://github.com/stevenluchen/openl3_recommender)
+
+    Built my own music recommendation pipeline because I got tired of Spotify's built-in recommendation algorithm. Feel free to try it yourself! 
+
+- [**Large Language Model & Retrieval-Augmented Generation**](https://github.com/stevenluchen/LLM-RAG)
+
+    Developed RAG system optimizing retrieval strategies for Meta KDD Cup 2024 CRAG benchmark. 
+
+- [**Denoising Autoencoder for CIFAR-100**](https://github.com/stevenluchen/denoising-autoencoder){target=_blank}  
+
+    Trained a convolutional autoencoder to reconstruct noisy images and improve feature representation.  
+
+- [**Reddit Social Network Analysis**](https://github.com/stevenluchen/reddit-social-network-analysis){target=_blank}
+
+    Built a graph neural network framework for social network analysis, including GCNs, GATs, and node embeddings.
+    
+---
+    
+### ⚾ Sports Analytics 
+- [**NFLPA Analytics Case Competition**](https://github.com/kevbaer/nflpa_24){target=_blank}
+
+    Clustered contract data of NFL players and presented data-driven recommendations to NFLPA leadership. 
+    
+- [**The Launch Angle Revolution**](https://www.bruinsportsanalytics.com/post/launch-angle){target=_blank}
+
+    Examined the impact of elite MLB hitters' average launch angle on statistics and performance. 
+    
+- [**Predicting the Group Stages of the 2022 FIFA World Cup**](https://www.bruinsportsanalytics.com/post/predicting_fifa_wc_2022){target=_blank}
+
+    Developed a statistical model based on statistics in qualifying to forecast results for the 2022 FIFA World Cup. Outperformed models developed by researchers at University of Oxford, Opta Sports, and others. 
+    
+---

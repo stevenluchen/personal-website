@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "Steven Lu Chen"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: resume.qmd
+        text: "My Resume"
+      - href: projects.qmd
+        text: "Projects"
+      - href: about.qmd
+        text: "About Me"
+      - href: contact.qmd
+        text: "Contact"
+    right:
+      - icon: github
+        href: https://github.com/stevenluchen
+      - icon: linkedin
+        href: https://linkedin.com/in/stevenluchen
+      - icon: envelope
+        href: mailto:stevenchen@ucla.edu
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+
+
+
